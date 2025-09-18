@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Aritra Banerjee  
 
-<p align="center">
-  <img src="coollogo_com-74061543.gif" alt="Aritra Banerjee" />
-</p>
-
-
 🎓 Final-year **B.Tech in Electronics & Computer Science Engineering** student at **KIIT University, India**  
 💡 Passionate about **SAP ABAP Development, Full-Stack Web Applications, Problem Solving, and AI/ML**  
 
