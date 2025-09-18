@@ -24,6 +24,40 @@
 ⚡ **Tools:** Git/GitHub, VS Code  
 
 ---
+## 🛠️ Tech Stack  
+
+💻 **Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+🌐 **Web Dev:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+🗄️ **Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+🔧 **SAP Technologies:**  
+![ABAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) 
+![HANA](https://img.shields.io/badge/HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) 
+![CAPM](https://img.shields.io/badge/CAPM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
+
+📚 **Concepts:**  
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white) 
+![DSA](https://img.shields.io/badge/DSA-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white) 
+![OS](https://img.shields.io/badge/OS-4285F4?style=for-the-badge&logo=linux&logoColor=white) 
+![Networks](https://img.shields.io/badge/Networks-FF9800?style=for-the-badge&logo=cisco&logoColor=white) 
+![DBMS](https://img.shields.io/badge/DBMS-795548?style=for-the-badge&logo=databricks&logoColor=white)  
+
+⚡ **Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
 
 ## 🧮 Competitive Programming & DSA  
 - 👤 **LeetCode:** [coldcoffe09](https://leetcode.com/u/coldcoffe09/)  
