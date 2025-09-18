@@ -13,6 +13,8 @@
 - 🧠 Strong in **Data Structures & Algorithms (DSA)** and **problem solving**, active on LeetCode  
 - 🤖 Hands-on with **Machine Learning, LLMs, and Natural Language Processing (NLP)** using Python (TensorFlow, PyTorch, Hugging Face)  
 
+---
+
 ## 🛠️ Tech Stack  
 
 💻 **Languages:**  
@@ -29,6 +31,12 @@
 🗄️ **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+🤖 **AI / ML Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
 🔧 **SAP Technologies:**  
 ![ABAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) 
@@ -47,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
+---
 
 ## 🧮 Competitive Programming & DSA  
 - 👤 **LeetCode:** [coldcoffe09](https://leetcode.com/u/coldcoffe09/)  
