@@ -34,12 +34,8 @@
 - 🧩 **Strongest Topics:** Arrays, Dynamic Programming, Math, Greedy, Hash Table, and more  
 - 🏅 **Recent Badge:** *50 Days Badge 2025*  
 
-📊 *LeetCode Stats:*  
+📊 *Dynamic Stats:*  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=heatmap)  
-
-🔥 *LeetCode Streaks:*  
-![LeetCode Streak](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=contest)
-
 
 ---
 
