@@ -10,7 +10,8 @@
 - ⚡ Built custom SAP ABAP reports (ALV, Module Pool) to streamline procurement & finance workflows  
 - 🤖 Automated bulk PO creation with BAPI, reducing manual effort by ~70%  
 - 🌱 Exploring **ABAP on HANA, CAPM, FastAPI, and AI-powered applications**  
-- 🧠 Also sharpening skills in Competitive Programming via **LeetCode**  
+- 🧠 Passionate about **Data Structures & Algorithms (DSA)** and **problem solving**, actively practicing on LeetCode  
+- 🤖 Hands-on with **Machine Learning, LLMs, and Natural Language Processing (NLP)** using Python (TensorFlow, PyTorch, Hugging Face)  
 
 ---
 
