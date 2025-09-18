@@ -13,17 +13,6 @@
 - 🧠 Strong in **Data Structures & Algorithms (DSA)** and **problem solving**, active on LeetCode  
 - 🤖 Hands-on with **Machine Learning, LLMs, and Natural Language Processing (NLP)** using Python (TensorFlow, PyTorch, Hugging Face)  
 
----
-
-## 🛠️ Tech Stack  
-💻 **Languages:** C++, Python, Java, SQL  
-🌐 **Web Dev:** Node.js, JavaScript, Express.js  
-🗄️ **Databases:** MySQL, MongoDB  
-🔧 **SAP Technologies:** ABAP (ALV, BAPIs, Module Pool), HANA, CAPM  
-📚 **Concepts:** OOP, DSA, OS, Networks, DBMS  
-⚡ **Tools:** Git/GitHub, VS Code  
-
----
 ## 🛠️ Tech Stack  
 
 💻 **Languages:**  
