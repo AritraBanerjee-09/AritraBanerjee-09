@@ -53,4 +53,4 @@
 
 ---
 
-⭐ *“Code, Learn, Innovate — Repeat.”*  
+⭐ *“Turning coffee into code, and ideas into impact.”*  
