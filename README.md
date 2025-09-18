@@ -37,8 +37,6 @@
 📊 *Dynamic Stats:*  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=heatmap)  
 
-🏆 *LeetCode Badges:*  
-![LeetCode Badges](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=badges)
 
 ---
 
