@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aritra Banerjee  
 
 🎓 Final-year **B.Tech in Electronics & Computer Science Engineering** student at **KIIT University, India**  
-💡 Passionate about **SAP ABAP Development, Full-Stack Web Applications, Problem Solving, and AI/ML**  
+💡 Passionate about **SAP ABAP Development,Data Analytics, Problem Solving, and AI/ML**  
 
 ---
 
