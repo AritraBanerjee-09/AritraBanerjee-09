@@ -24,15 +24,15 @@
 - **Soft Skills:** Communication, Collaboration, Analytical Thinking  
 
 
-
 ## 🧮 LeetCode / Competitive Programming
-- **Username:** coldcoffe09 :contentReference[oaicite:0]{index=0}  
+- **Username:** [coldcoffe09](https://leetcode.com/u/coldcoffe09/)  
 - **Problems solved:**  
-  - C++ → ~95 :contentReference[oaicite:1]{index=1}  
-  - Java → ~48 :contentReference[oaicite:2]{index=2}  
-  - Python3 → ~11 :contentReference[oaicite:3]{index=3}  
-- **Strongest Topics:** Arrays, Dynamic Programming, Math, Greedy, Hash Table … many more :contentReference[oaicite:4]{index=4}  
-- 🏅 Most recent badge: *50 Days Badge 2025* :contentReference[oaicite:5]{index=5}  
+  - C++ → ~95  
+  - Java → ~48  
+  - Python3 → ~11  
+- **Strongest Topics:** Arrays, Dynamic Programming, Math, Greedy, Hash Table, and more  
+- 🏅 Most recent badge: *50 Days Badge 2025*  
+ 
 
 
 
