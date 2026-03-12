@@ -1,81 +1,119 @@
-# 👋 Hi, I'm Aritra Banerjee  
+<h1 align="center">Hi 👋, I'm Aritra Banerjee</h1>
 
-🎓 Final-year **B.Tech in Electronics & Computer Science Engineering** student at **KIIT University, India**  
-💡 Passionate about **SAP ABAP Development, Data Analytics, Problem Solving, and AI/ML**  
+<p align="center">
+Data Analyst | SAP ABAP Developer | Python & SQL Enthusiast
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AritraBanerjee-09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-## 🚀 About Me  
-- 🔭 **SAP ABAP Intern** at *Exide Industries Limited, Kolkata* (May 2025 – July 2025)  
-- ⚡ Built **custom SAP ABAP reports** (ALV, Module Pool) to streamline procurement & finance workflows  
-- 🤖 Automated **bulk PO creation with BAPI**, reducing manual effort by ~70%  
-- 🌱 Exploring **ABAP on HANA, CAPM, FastAPI, and AI-powered applications**  
-- 🧠 Strong in **Data Structures & Algorithms (DSA)** and **problem solving**, active on LeetCode  
-- 🤖 Hands-on with **Machine Learning, LLMs, and Natural Language Processing (NLP)** using Python (TensorFlow, PyTorch, Hugging Face)  
-
----
-
-## 🛠️ Tech Stack  
-
-💻 **Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>  
-
-🌐 **Web Dev:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>  
-
-🗄️ **Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
-
-🤖 **AI / ML Frameworks:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Hugging Face" width="40" height="40"/>  
-
-🔧 **SAP Technologies:**  
-![ABAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) 
-![HANA](https://img.shields.io/badge/HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) 
-![CAPM](https://img.shields.io/badge/CAPM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)   
-
-📚 **Concepts & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%)"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;SAP+ABAP+Developer;Machine+Learning+Enthusiast;Turning+Data+into+Insights"/>
+</p>
 
 ---
 
-## 🧮 Competitive Programming & DSA  
-- 👤 **LeetCode:** [coldcoffe09](https://leetcode.com/u/coldcoffe09/)  
-- ✅ **Problems solved:**  
-  - C++ → ~95  
-  - Java → ~48  
-  - Python3 → ~11  
-- 🧩 **Strongest Topics:** Arrays, Dynamic Programming, Math, Greedy, Hash Table, and more  
-- 🏅 **Recent Badge:** *50 Days Badge 2025*  
+# 🚀 About Me
 
-📊 *Dynamic Stats:*  
-![LeetCode Stats](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=heatmap)  
+🎓 Final-year **B.Tech Electronics & Computer Science Engineering** student at **KIIT University**
 
+💼 **SAP ABAP Developer Intern — Exide Industries Ltd., Kolkata**
 
----
+⚡ Built **SAP ABAP ALV reports for Procure-to-Pay datasets**
 
-## 📊 GitHub Stats  
+🔄 Automated **SAP reporting workflows using BAPIs**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraBanerjee-09&layout=compact&theme=radical)  
+📊 Experienced in **Data Analytics, ETL pipelines, and BI dashboards**
 
+🌱 Exploring **Machine Learning and Data Science**
+
+🧠 Strong in **SQL, Python, and Business Intelligence**
 
 ---
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aritra-banerjee-/)  
-- 🐙 [GitHub](https://github.com/AritraBanerjee-09)  
-- 📧 **aritrab16118@gmail.com**  
+# 🛠 Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+### Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+### Machine Learning
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### SAP
+![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-⭐ *“Turning coffee into code, and ideas into impact.”*  
+# 📊 Featured Projects
+
+### 📈 Finance Expense Analytics Dashboard
+- Processed **1.5M+ financial transaction records**
+- Built **Power BI dashboards with 12+ KPIs**
+
+### 💰 Revenue & Vendor Analytics
+- Built **SQL pipeline analyzing vendor performance**
+- Developed **Pareto dashboards identifying top revenue vendors**
+
+### 🌍 AQI Prediction
+- Built **ML pipeline predicting Air Quality Index**
+- Evaluated multiple models including **XGBoost**
+
+---
+
+# 🧠 Competitive Programming
+
+👤 **LeetCode:**  
+https://leetcode.com/u/coldcoffe09/
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=heatmap)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AritraBanerjee-09&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraBanerjee-09&layout=compact&theme=radical"/>
+</p>
+
+---
+
+# 🔥 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AritraBanerjee-09&theme=react-dark"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/aritra-banerjee-/
+
+🐙 GitHub  
+https://github.com/AritraBanerjee-09
+
+📧 Email  
+aritrab16118@gmail.com
+
+---
+
+⭐ **"Transforming data into insights and insights into impact."**
