@@ -14,6 +14,13 @@ Data Analyst | SAP ABAP Developer | Python & SQL Enthusiast
 
 ---
 
+# 🌐 Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://aritrabanerjee-09.github.io/My-portfolio/
+
+---
+
 # 🚀 About Me
 
 🎓 Final-year **B.Tech Electronics & Computer Science Engineering** student at **KIIT University**
@@ -113,6 +120,9 @@ https://github.com/AritraBanerjee-09
 
 📧 Email  
 aritrab16118@gmail.com
+
+🌐 Portfolio  
+https://aritrabanerjee-09.github.io/My-portfolio/
 
 ---
 
