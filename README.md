@@ -90,26 +90,6 @@ https://leetcode.com/u/coldcoffe09/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AritraBanerjee-09&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraBanerjee-09&layout=compact&theme=radical"/>
-</p>
-
----
-
-# 🔥 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AritraBanerjee-09&theme=react-dark"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn  
