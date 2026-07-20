@@ -1,155 +1,203 @@
-# Hi 👋, I'm Aritra Banerjee
+<h1 align="center">Hi 👋, I'm Aritra Banerjee</h1>
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=850&lines=Data+Analyst;SAP+ABAP+Developer;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Turning+Data+into+Business+Insights" />
+
+Data Analyst | SAP ABAP Developer | Python & SQL Enthusiast
+
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AritraBanerjee-09&label=Profile+Views&style=flat-square&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/AritraBanerjee-09?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/AritraBanerjee-09?style=flat-square"/>
-</p>
+
 
 <p align="center">
-<img width="650" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+  <img src="https://komarev.com/ghpvc/?username=AritraBanerjee-09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
 </p>
+
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;SAP+ABAP+Developer;Machine+Learning+Enthusiast;Turning+Data+into+Insights"/>
+
+</p>
+
+
 
 ---
 
-# 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech (Electronics & Computer Science Engineering)** at **KIIT University**
-- 💼 Former **SAP ABAP Developer Intern** at **Exide Industries Ltd.**
-- 📊 Passionate about **Data Analytics, Power BI, SQL, Python, SAP ABAP**
-- 🤖 Exploring **Machine Learning, AI, and Data Engineering**
-- 🚀 Building data-driven dashboards and intelligent applications.
+
+# 🚀 About Me
+
+
+
+🎓 Final-year **B.Tech Electronics & Computer Science Engineering** student at **KIIT University**
+
+
+
+💼 **SAP ABAP Developer Intern — Exide Industries Ltd., Kolkata**
+
+
+
+⚡ Built **SAP ABAP ALV reports for Procure-to-Pay datasets**
+
+
+
+🔄 Automated **SAP reporting workflows using BAPIs**
+
+
+
+📊 Experienced in **Data Analytics, ETL pipelines, and BI dashboards**
+
+
+
+🌱 Exploring **Machine Learning and Data Science**
+
+
+
+🧠 Strong in **SQL, Python, and Business Intelligence**
+
+
 
 ---
 
-# 💼 Experience
 
-## SAP ABAP Developer Intern — Exide Industries Ltd.
 
-- Developed ALV Reports for Procure-to-Pay
-- Worked with BAPIs and enterprise SAP tables
-- Automated reporting workflows
-- Improved reporting efficiency
+# 🛠 Tech Stack
 
----
 
-# ⚙️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,cpp,java,git,github,vscode,linux"/>
-</p>
+### Programming
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+### Data Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-</p>
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
----
 
-# 🚀 Featured Projects
 
-| Project | Tech | Highlights |
-|---------|------|------------|
-| 🤖 AI Document Chatbot | FastAPI, LangChain | RAG-based intelligent chatbot |
-| ☕ Starbucks Analytics | Power BI | Sales & nutrition dashboard |
-| 📈 Finance Expense Analytics | Power BI | 1.5M+ transaction analysis |
-| 🌍 AQI Prediction | Python, XGBoost | Air Quality prediction |
-| ❤️ Heart Disease Prediction | ML | Classification models |
+### Visualization
 
----
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
-# 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AritraBanerjee-09&show_icons=true&theme=default&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraBanerjee-09&layout=compact&theme=default&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AritraBanerjee-09&theme=default&hide_border=true"/>
-</p>
+### Machine Learning
 
----
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AritraBanerjee-09&theme=github-light&hide_border=true"/>
-</p>
+
+### SAP
+
+![SAP](https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap)
+
+
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AritraBanerjee-09&theme=flat&no-frame=true&margin-w=15"/>
-</p>
 
----
+# 📊 Featured Projects
 
-# 🧩 LeetCode
 
-<p align="center">
-<a href="https://leetcode.com/u/coldcoffe09/">
-<img src="https://leetcard.jacoblin.cool/coldcoffe09?theme=light&font=Karma&ext=heatmap"/>
-</a>
-</p>
 
----
+### 📈 Finance Expense Analytics Dashboard
 
-# 🌐 Connect With Me
+- Processed **1.5M+ financial transaction records**
 
-<p align="center">
+- Built **Power BI dashboards with 12+ KPIs**
 
-<a href="https://linkedin.com/in/aritra-banerjee-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
 
-<a href="mailto:aritrab16118@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 
-<a href="https://github.com/AritraBanerjee-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+### 💰 Revenue & Vendor Analytics
 
-<a href="https://aritrabanerjee-09.github.io/My-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
-</a>
+- Built **SQL pipeline analyzing vendor performance**
 
-</p>
+- Developed **Pareto dashboards identifying top revenue vendors**
+
+
+
+### 🌍 AQI Prediction
+
+- Built **ML pipeline predicting Air Quality Index**
+
+- Evaluated multiple models including **XGBoost**
+
+
 
 ---
 
-## 💡 Current Focus
 
-- 📊 Data Analytics
-- 📈 Power BI Dashboards
-- 🗄 SQL Optimization
-- 🤖 Machine Learning
-- ☁ Cloud & Data Engineering
+
+# 🧠 Competitive Programming
+
+
+
+👤 **LeetCode:**  
+
+https://leetcode.com/u/coldcoffe09/
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/baritra?theme=dark&font=Karma&ext=heatmap)
+
+
 
 ---
 
-## ✨ Quote
 
-> **"Transforming Data into Insights, and Insights into Impact."**
+
+# 📫 Connect With Me
+
+
+
+💼 LinkedIn  
+
+https://www.linkedin.com/in/aritra-banerjee-/
+
+
+
+🐙 GitHub  
+
+https://github.com/AritraBanerjee-09
+
+
+
+📧 Email  
+
+aritrab16118@gmail.com
+
+
+
+🌐 Portfolio  
+
+https://aritrabanerjee-09.github.io/My-portfolio/
+
+
 
 ---
 
-<p align="center">
-Thanks for visiting my profile ⭐
-</p>
 
-## 🐍 Snake Animation
 
-Create `.github/workflows/snake.yml` using Platane/snk to enable an animated contribution snake.
+⭐ **"Transforming data into insights and insights into impact."**
