@@ -79,7 +79,7 @@ Data Analyst | SAP ABAP Developer | Python & SQL Enthusiast
 👤 **LeetCode:**  
 https://leetcode.com/u/coldcoffe09/
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/coldcoffe09?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/baritra?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
